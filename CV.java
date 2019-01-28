@@ -1,0 +1,10 @@
+package assquallogtp1;
+
+public class CV {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
