@@ -24,6 +24,10 @@ public class CV {
 		this.attentes = attentes;
 		this.nbanne = nbanne;
 	}
-
+	public static void affiche( CV personne ) {
+		System.out.println( "\nPersonne : \n" + "\nNom : " + personne.nom + "\nPrenom : " + personne.prenom + "\nFormation : "
+				+ personne.formation + "\nCompétences : " + personne.competences + "\nAttentes : " + personne.attentes
+				+ "\nNombre d'années : " + personne.nbanne + " ans." );
+	}
 	
 }
