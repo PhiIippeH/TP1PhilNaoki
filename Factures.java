@@ -3,7 +3,7 @@ package assquallogtp1;
 import java.util.*;
 
 public class Factures {
-
+//Philippe et Naoki
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		FicLecture fic = new FicLecture();
